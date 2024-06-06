@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace pocketmine\math;
+namespace xpocketmc\math;
 
 final class Axis{
 	private function __construct(){
