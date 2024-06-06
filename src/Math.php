@@ -13,8 +13,8 @@
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * @author PocketMine Team
- * @link http://www.pocketmine.net/
+ * @author xpocketmc Team
+ * @link http://www.xpocketmc.net/
  *
  *
 */
@@ -24,7 +24,7 @@ declare(strict_types=1);
 /**
  * Math related classes, like matrices, bounding boxes and vector
  */
-namespace pocketmine\math;
+namespace xpocketmc\math;
 
 use function sqrt;
 
