@@ -19,7 +19,7 @@
  *
 */
 
-namespace pocketmine\math;
+namespace xpocketmc\math;
 
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
