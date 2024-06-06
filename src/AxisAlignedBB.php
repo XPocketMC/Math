@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace pocketmine\math;
+namespace xpocketmc\math;
 
 use function abs;
 use const PHP_INT_MAX;
